@@ -31,7 +31,7 @@ example: x>asset 1989287
 ```
 returns:
 
-![Image](https://i.imgur.com/aP0Yg2C.png)
+![Image](https://i.imgur.com/Jmrkc6R.png)
 
 ## search
 ```markdown
@@ -40,7 +40,7 @@ example: x>search CurledDev
 
 returns:
 
-![Image](https://www.healy.ga/-/mqMUO2fr.png)
+![Image](https://i.imgur.com/STLjiov.png)
 
 ## idsearch
 ```markdown
@@ -49,7 +49,7 @@ example: x>idsearch 54955971
 
 returns:
 
-![Image](https://www.healy.ga/-/6QUn8jQG.png)
+![Image](https://i.imgur.com/v0OUeMG.png)
 
 ### Support or Contact
 
