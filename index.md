@@ -12,11 +12,16 @@ Here's a list of the commands that the bot has:
 
 ```markdown
 # Assets API
-- x>steal {AssetId}
+- x>asset {AssetId}
 
 # Users API
 - x>search {username}
 - x>idsearch {userId}
+
+## Bot Commands
+
+- x>servers
+- x>ping
 ```
 
 ### Commands Usage
