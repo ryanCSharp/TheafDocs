@@ -2,34 +2,27 @@
 
 Theaf is a Discord Bot. Its purpose is a ROBLOX Utility Bot, it has a few commands for now.
 
-### Markdown
+### Commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here's a list of the commands that the bot has:
 
 ```markdown
-Syntax highlighted code block
+# Assets API
+- x>steal {AssetId}
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Users API
+- x>search {username}
+- x>idsearch {userId}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanCSharp/TheafDocs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Commands Usage
+## steal
+```markdown
+example: x>steal 1989287
+```
+Returns:
+![Image](https://www.healy.ga/-/ogBh2WtV.png)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the bot? Join our [support server](https://discord.gg/3Ssc9PT/).
