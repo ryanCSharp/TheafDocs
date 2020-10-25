@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Theaf Bot
 
-You can use the [editor on GitHub](https://github.com/ryanCSharp/TheafDocs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Theaf is a Discord Bot. Its purpose is a ROBLOX Utility Bot, it has a few commands for now.
 
 ### Markdown
 
