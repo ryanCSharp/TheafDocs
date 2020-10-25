@@ -21,7 +21,7 @@ Here's a list of the commands that the bot has:
 example: x>steal 1989287
 ```
 Returns:
-![Image](https://www.healy.ga/-/ogBh2WtV.png)
+[Image](https://www.healy.ga/-/ogBh2WtV.png)
 
 ## search
 ```markdown
@@ -29,7 +29,7 @@ example: x>search CurledDev
 ```
 
 Returns:
-![Image](https://www.healy.ga/-/mqMUO2fr.png)
+[Image](https://www.healy.ga/-/mqMUO2fr.png)
 
 ## idsearch
 ```markdown
@@ -37,7 +37,7 @@ example: x>idsearch 54955971
 ```
 
 Returns:
-![Image](https://www.healy.ga/-/6QUn8jQG.png)
+[Image](https://www.healy.ga/-/6QUn8jQG.png)
 
 ### Support or Contact
 
