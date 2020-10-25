@@ -25,13 +25,13 @@ Here's a list of the commands that the bot has:
 ```
 
 ### Commands Usage
-## steal
+## asset
 ```markdown
-example: x>steal 1989287
+example: x>asset 1989287
 ```
 returns:
 
-![Image](https://www.healy.ga/-/ogBh2WtV.png)
+![Image](https://i.imgur.com/aP0Yg2C.png)
 
 ## search
 ```markdown
