@@ -2,6 +2,10 @@
 
 Theaf is a Discord Bot. Its purpose is a ROBLOX Utility Bot, it has a few commands for now.
 
+### Invite Theaf to your Discord Server
+
+[Click here](https://discord.com/api/oauth2/authorize?client_id=768459185020600320&permissions=8&scope=bot) to invite the bot to your server.
+
 ### Commands
 
 Here's a list of the commands that the bot has:
