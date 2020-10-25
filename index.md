@@ -21,6 +21,7 @@ Here's a list of the commands that the bot has:
 example: x>steal 1989287
 ```
 Returns:
+
 [Image](https://www.healy.ga/-/ogBh2WtV.png)
 
 ## search
