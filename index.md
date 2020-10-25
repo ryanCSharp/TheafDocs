@@ -44,4 +44,4 @@ returns:
 
 ### Support or Contact
 
-Having trouble with the bot? Join our [support server](https://discord.gg/3Ssc9PT/).
+Want to leave command suggestions? Or are you having trouble with the bot? Join our [support server](https://discord.gg/3Ssc9PT/).
