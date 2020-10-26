@@ -18,7 +18,7 @@ Here's a list of the commands that the bot has:
 - x>search {username} ; search for a ROBLOX user by Username
 - x>idsearch {userId} ; search for a ROBLOX user by UserId
 
-## Bot Commands
+# Bot Commands
 
 - x>servers ; check how many servers the bot is in
 - x>ping ; check the bot's ping
