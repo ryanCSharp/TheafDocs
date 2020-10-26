@@ -12,16 +12,18 @@ Here's a list of the commands that the bot has:
 
 ```markdown
 # Assets API
-- x>asset {AssetId}
+- x>asset {AssetId} ; grab an asset in PNG format using AssetId
 
 # Users API
-- x>search {username}
-- x>idsearch {userId}
+- x>search {username} ; search for a ROBLOX user by Username
+- x>idsearch {userId} ; search for a ROBLOX user by UserId
 
 ## Bot Commands
 
-- x>servers
-- x>ping
+- x>servers ; check how many servers the bot is in
+- x>ping ; check the bot's ping
+- x>support ; join the support server for Theaf
+- x>invite ; invite Theaf to your server
 ```
 
 ### Commands Usage
